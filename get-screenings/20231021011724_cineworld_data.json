@@ -1,0 +1,1311 @@
+{
+    "body": {
+        "films": [
+            {
+                "id": "ho00010425",
+                "name": "Gravity (10th Anniversary)",
+                "length": 93,
+                "posterLink": "https://regalcdn.azureedge.net/CW/Gravity10thAnniversary/HO00010425/TV_SmallPosterImage/20231010-035649007.jpg",
+                "videoLink": null,
+                "link": "https://www.cineworld.co.uk/films/gravity-10th-anniversary/ho00010425",
+                "weight": 10,
+                "releaseYear": "2023",
+                "attributeIds": [
+                    "12a",
+                    "3d",
+                    "drama",
+                    "reserved-selected"
+                ]
+            },
+            {
+                "id": "ho00010351",
+                "name": "It Lives Inside",
+                "length": 99,
+                "posterLink": "https://regalcdn.azureedge.net/CW/ItLivesInside/HO00010351/TV_SmallPosterImage/20230907-074807111.jpg",
+                "videoLink": "https://youtu.be/mrCKB0tJ5hA?si=IjCERtV8vZK7CNwP",
+                "link": "https://www.cineworld.co.uk/films/it-lives-inside/ho00010351",
+                "weight": 10,
+                "releaseYear": "2023",
+                "attributeIds": [
+                    "15",
+                    "2d",
+                    "horror",
+                    "reserved-selected"
+                ]
+            },
+            {
+                "id": "ho00010012",
+                "name": "Killers Of The Flower Moon",
+                "length": 206,
+                "posterLink": "https://regalcdn.azureedge.net/CW/KillersOfTheFlowerMoon/HO00010012/TV_SmallPosterImage/20230904-050103137.jpg",
+                "videoLink": "https://youtu.be/nFoIg72KGIk?si=zqY7SVz2ftMkD-Fq",
+                "link": "https://www.cineworld.co.uk/films/killers-of-the-flower-moon/ho00010012",
+                "weight": 10,
+                "releaseYear": "2023",
+                "attributeIds": [
+                    "15",
+                    "2d",
+                    "drama",
+                    "imax",
+                    "reserved-selected"
+                ]
+            },
+            {
+                "id": "ho00010207",
+                "name": "Trolls Band Together",
+                "length": 91,
+                "posterLink": "https://regalcdn.azureedge.net/CW/TrollsBandTogether/HO00010207/TV_SmallPosterImage/20231017-120325612.jpg",
+                "videoLink": "https://youtu.be/zYaxVe7uQUs?si=lJuxrhBY_CqNQLiz",
+                "link": "https://www.cineworld.co.uk/films/trolls-band-together/ho00010207",
+                "weight": 10,
+                "releaseYear": "2023",
+                "attributeIds": [
+                    "2d",
+                    "animation",
+                    "reserved-selected",
+                    "u"
+                ]
+            },
+            {
+                "id": "ho00010354",
+                "name": "Leo (Tamil)",
+                "length": 165,
+                "posterLink": "https://regalcdn.azureedge.net/CW/LeoTamil/HO00010354/TV_SmallPosterImage/20230907-085150083.jpg",
+                "videoLink": "https://youtu.be/Po3jStA673E?si=cNgZn0kOqgb6CaFW",
+                "link": "https://www.cineworld.co.uk/films/leo-tamil/ho00010354",
+                "weight": 10,
+                "releaseYear": "2023",
+                "attributeIds": [
+                    "15",
+                    "2d",
+                    "action",
+                    "crime",
+                    "reserved-selected",
+                    "subbed"
+                ]
+            },
+            {
+                "id": "ho00009697",
+                "name": "Paw Patrol: The Mighty Movie",
+                "length": 93,
+                "posterLink": "https://regalcdn.azureedge.net/CW/PawPatrolTheMightyMovie/HO00009697/TV_SmallPosterImage/20230918-102552636.jpg",
+                "videoLink": "https://youtu.be/eKIj0y2NjzE",
+                "link": "https://www.cineworld.co.uk/films/paw-patrol-the-mighty-movie/ho00009697",
+                "weight": 10,
+                "releaseYear": "2023",
+                "attributeIds": [
+                    "2d",
+                    "action",
+                    "animation",
+                    "reserved-selected",
+                    "u"
+                ]
+            },
+            {
+                "id": "ho00010371",
+                "name": "Sumotherhood",
+                "length": 97,
+                "posterLink": "https://regalcdn.azureedge.net/CW/Sumotherhood/HO00010371/TV_SmallPosterImage/20230914-122536561.jpg",
+                "videoLink": "https://youtu.be/C7_Vq7Sxsf4?si=J5bIlmHmRzJlScO_",
+                "link": "https://www.cineworld.co.uk/films/sumotherhood/ho00010371",
+                "weight": 10,
+                "releaseYear": "2023",
+                "attributeIds": [
+                    "15",
+                    "2d",
+                    "comedy",
+                    "drama",
+                    "reserved-selected"
+                ]
+            },
+            {
+                "id": "ho00010344",
+                "name": "TAYLOR SWIFT | THE ERAS TOUR",
+                "length": 168,
+                "posterLink": "https://regalcdn.azureedge.net/CW/TaylorSwiftTheErasTour/HO00010344/TV_SmallPosterImage/20230930-091705701.jpg",
+                "videoLink": null,
+                "link": "https://www.cineworld.co.uk/films/taylor-swift-the-eras-tour/ho00010344",
+                "weight": 10,
+                "releaseYear": "2023",
+                "attributeIds": [
+                    "12a",
+                    "2d",
+                    "reserved-selected",
+                    "superscreen"
+                ]
+            },
+            {
+                "id": "ho00010450",
+                "name": "Under The Light (Mandarin)",
+                "length": 128,
+                "posterLink": "https://regalcdn.azureedge.net/CW/UnderTheLightMandarin/HO00010450/TV_SmallPosterImage/20231017-112103579.jpg",
+                "videoLink": "https://youtu.be/eXgV8MBlpAM?si=hXbpz1Brq4b-RYVK",
+                "link": "https://www.cineworld.co.uk/films/under-the-light-mandarin/ho00010450",
+                "weight": 10,
+                "releaseYear": "2023",
+                "attributeIds": [
+                    "15",
+                    "2d",
+                    "drama",
+                    "reserved-selected",
+                    "subbed"
+                ]
+            },
+            {
+                "id": "ho00010305",
+                "name": "The Exorcist: Believer",
+                "length": 111,
+                "posterLink": "https://regalcdn.azureedge.net/CW/TheExorcistBeliever/HO00010305/TV_SmallPosterImage/20230830-102518180.jpg",
+                "videoLink": "https://youtu.be/sEyCSIHSBRQ?si=S3fYix6ZVsy3ObUn",
+                "link": "https://www.cineworld.co.uk/films/the-exorcist-believer/ho00010305",
+                "weight": 10,
+                "releaseYear": "2023",
+                "attributeIds": [
+                    "15",
+                    "2d",
+                    "horror",
+                    "reserved-selected",
+                    "suspense"
+                ]
+            },
+            {
+                "id": "ho00010228",
+                "name": "Saw X",
+                "length": 118,
+                "posterLink": "https://regalcdn.azureedge.net/CW/SawX/HO00010228/TV_SmallPosterImage/20230815-115327670.jpg",
+                "videoLink": "https://youtu.be/AjEMxm7l0N0",
+                "link": "https://www.cineworld.co.uk/films/saw-x/ho00010228",
+                "weight": 10,
+                "releaseYear": "2023",
+                "attributeIds": [
+                    "18",
+                    "2d",
+                    "horror",
+                    "reserved-selected",
+                    "suspense"
+                ]
+            },
+            {
+                "id": "ho00009999",
+                "name": "The Creator",
+                "length": 133,
+                "posterLink": "https://regalcdn.azureedge.net/CW/TheCreator/HO00009999/TV_SmallPosterImage/20230918-114526696.jpg",
+                "videoLink": "https://youtu.be/go4dkOkze6U",
+                "link": "https://www.cineworld.co.uk/films/the-creator/ho00009999",
+                "weight": 10,
+                "releaseYear": "2023",
+                "attributeIds": [
+                    "12a",
+                    "2d",
+                    "reserved-selected"
+                ]
+            }
+        ],
+        "events": [
+            {
+                "id": "84260",
+                "filmId": "ho00009697",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T10:20:00",
+                "attributeIds": [
+                    "2d",
+                    "action",
+                    "animation",
+                    "reserved-selected",
+                    "u"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84260&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "84260",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84260&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "84260",
+                "soldOut": false,
+                "auditorium": "2",
+                "auditoriumTinyName": "2"
+            },
+            {
+                "id": "84301",
+                "filmId": "ho00010207",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T10:20:00",
+                "attributeIds": [
+                    "2d",
+                    "animation",
+                    "reserved-selected",
+                    "u"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84301&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "84301",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84301&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "84301",
+                "soldOut": false,
+                "auditorium": "5",
+                "auditoriumTinyName": "5"
+            },
+            {
+                "id": "84371",
+                "filmId": "ho00010012",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T10:30:00",
+                "attributeIds": [
+                    "15",
+                    "2d",
+                    "drama",
+                    "imax",
+                    "reserved-selected"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84371&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "84371",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84371&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "84371",
+                "soldOut": false,
+                "auditorium": "8",
+                "auditoriumTinyName": "8"
+            },
+            {
+                "id": "84358",
+                "filmId": "ho00010207",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T11:30:00",
+                "attributeIds": [
+                    "2d",
+                    "animation",
+                    "reserved-selected",
+                    "u"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84358&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "84358",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84358&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "84358",
+                "soldOut": false,
+                "auditorium": "7",
+                "auditoriumTinyName": "7"
+            },
+            {
+                "id": "84271",
+                "filmId": "ho00010228",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T11:50:00",
+                "attributeIds": [
+                    "18",
+                    "2d",
+                    "horror",
+                    "reserved-selected",
+                    "suspense"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84271&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "84271",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84271&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "84271",
+                "soldOut": false,
+                "auditorium": "6",
+                "auditoriumTinyName": "6"
+            },
+            {
+                "id": "83817",
+                "filmId": "ho00010344",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T12:00:00",
+                "attributeIds": [
+                    "12a",
+                    "2d",
+                    "reserved-selected",
+                    "superscreen"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=83817&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "83817",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=83817&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "83817",
+                "soldOut": false,
+                "auditorium": "9",
+                "auditoriumTinyName": "9"
+            },
+            {
+                "id": "84398",
+                "filmId": "ho00010305",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T12:00:00",
+                "attributeIds": [
+                    "15",
+                    "2d",
+                    "horror",
+                    "reserved-selected",
+                    "suspense"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84398&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "84398",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84398&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "84398",
+                "soldOut": false,
+                "auditorium": "3",
+                "auditoriumTinyName": "3"
+            },
+            {
+                "id": "84241",
+                "filmId": "ho00009999",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T12:30:00",
+                "attributeIds": [
+                    "12a",
+                    "2d",
+                    "reserved-selected"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84241&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "84241",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84241&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "84241",
+                "soldOut": false,
+                "auditorium": "1",
+                "auditoriumTinyName": "1"
+            },
+            {
+                "id": "84261",
+                "filmId": "ho00009697",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T12:40:00",
+                "attributeIds": [
+                    "2d",
+                    "action",
+                    "animation",
+                    "reserved-selected",
+                    "u"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84261&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "84261",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84261&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "84261",
+                "soldOut": false,
+                "auditorium": "2",
+                "auditoriumTinyName": "2"
+            },
+            {
+                "id": "84302",
+                "filmId": "ho00010207",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T12:40:00",
+                "attributeIds": [
+                    "2d",
+                    "animation",
+                    "reserved-selected",
+                    "u"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84302&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "84302",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84302&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "84302",
+                "soldOut": false,
+                "auditorium": "5",
+                "auditoriumTinyName": "5"
+            },
+            {
+                "id": "84359",
+                "filmId": "ho00010207",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T13:50:00",
+                "attributeIds": [
+                    "2d",
+                    "animation",
+                    "reserved-selected",
+                    "u"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84359&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "84359",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84359&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "84359",
+                "soldOut": false,
+                "auditorium": "7",
+                "auditoriumTinyName": "7"
+            },
+            {
+                "id": "84272",
+                "filmId": "ho00010228",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T14:40:00",
+                "attributeIds": [
+                    "18",
+                    "2d",
+                    "horror",
+                    "reserved-selected",
+                    "suspense"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84272&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "84272",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84272&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "84272",
+                "soldOut": false,
+                "auditorium": "6",
+                "auditoriumTinyName": "6"
+            },
+            {
+                "id": "83345",
+                "filmId": "ho00010012",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T14:45:00",
+                "attributeIds": [
+                    "15",
+                    "2d",
+                    "drama",
+                    "imax",
+                    "reserved-selected"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=83345&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "83345",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=83345&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "83345",
+                "soldOut": false,
+                "auditorium": "8",
+                "auditoriumTinyName": "8"
+            },
+            {
+                "id": "84399",
+                "filmId": "ho00010305",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T14:50:00",
+                "attributeIds": [
+                    "15",
+                    "2d",
+                    "horror",
+                    "reserved-selected",
+                    "suspense"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84399&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "84399",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84399&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "84399",
+                "soldOut": false,
+                "auditorium": "3",
+                "auditoriumTinyName": "3"
+            },
+            {
+                "id": "83139",
+                "filmId": "ho00010354",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T15:00:00",
+                "attributeIds": [
+                    "15",
+                    "2d",
+                    "action",
+                    "crime",
+                    "reserved-selected",
+                    "subbed"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=83139&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "83139",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=83139&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "83139",
+                "soldOut": false,
+                "auditorium": "2",
+                "auditoriumTinyName": "2"
+            },
+            {
+                "id": "84303",
+                "filmId": "ho00010207",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T15:00:00",
+                "attributeIds": [
+                    "2d",
+                    "animation",
+                    "reserved-selected",
+                    "u"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84303&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "84303",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84303&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "84303",
+                "soldOut": false,
+                "auditorium": "5",
+                "auditoriumTinyName": "5"
+            },
+            {
+                "id": "84242",
+                "filmId": "ho00009999",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T15:30:00",
+                "attributeIds": [
+                    "12a",
+                    "2d",
+                    "reserved-selected"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84242&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "84242",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84242&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "84242",
+                "soldOut": false,
+                "auditorium": "1",
+                "auditoriumTinyName": "1"
+            },
+            {
+                "id": "83820",
+                "filmId": "ho00010344",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T15:45:00",
+                "attributeIds": [
+                    "12a",
+                    "2d",
+                    "reserved-selected",
+                    "superscreen"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=83820&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "83820",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=83820&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "83820",
+                "soldOut": false,
+                "auditorium": "9",
+                "auditoriumTinyName": "9"
+            },
+            {
+                "id": "84343",
+                "filmId": "ho00009697",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T16:10:00",
+                "attributeIds": [
+                    "2d",
+                    "action",
+                    "animation",
+                    "reserved-selected",
+                    "u"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84343&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "84343",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84343&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "84343",
+                "soldOut": false,
+                "auditorium": "7",
+                "auditoriumTinyName": "7"
+            },
+            {
+                "id": "84304",
+                "filmId": "ho00010207",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T17:20:00",
+                "attributeIds": [
+                    "2d",
+                    "animation",
+                    "reserved-selected",
+                    "u"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84304&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "84304",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84304&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "84304",
+                "soldOut": false,
+                "auditorium": "5",
+                "auditoriumTinyName": "5"
+            },
+            {
+                "id": "84273",
+                "filmId": "ho00010228",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T17:30:00",
+                "attributeIds": [
+                    "18",
+                    "2d",
+                    "horror",
+                    "reserved-selected",
+                    "suspense"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84273&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "84273",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84273&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "84273",
+                "soldOut": false,
+                "auditorium": "6",
+                "auditoriumTinyName": "6"
+            },
+            {
+                "id": "84429",
+                "filmId": "ho00009999",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T17:40:00",
+                "attributeIds": [
+                    "12a",
+                    "2d",
+                    "reserved-selected"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84429&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "84429",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84429&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "84429",
+                "soldOut": false,
+                "auditorium": "3",
+                "auditoriumTinyName": "3"
+            },
+            {
+                "id": "84226",
+                "filmId": "ho00010425",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T18:30:00",
+                "attributeIds": [
+                    "12a",
+                    "3d",
+                    "drama",
+                    "reserved-selected"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84226&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "84226",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84226&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "84226",
+                "soldOut": false,
+                "auditorium": "1",
+                "auditoriumTinyName": "1"
+            },
+            {
+                "id": "84350",
+                "filmId": "ho00010371",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T18:30:00",
+                "attributeIds": [
+                    "15",
+                    "2d",
+                    "comedy",
+                    "drama",
+                    "reserved-selected"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84350&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "84350",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84350&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "84350",
+                "soldOut": false,
+                "auditorium": "7",
+                "auditoriumTinyName": "7"
+            },
+            {
+                "id": "83138",
+                "filmId": "ho00010354",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T19:00:00",
+                "attributeIds": [
+                    "15",
+                    "2d",
+                    "action",
+                    "crime",
+                    "reserved-selected",
+                    "subbed"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=83138&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "83138",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=83138&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "83138",
+                "soldOut": false,
+                "auditorium": "2",
+                "auditoriumTinyName": "2"
+            },
+            {
+                "id": "83346",
+                "filmId": "ho00010012",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T19:00:00",
+                "attributeIds": [
+                    "15",
+                    "2d",
+                    "drama",
+                    "imax",
+                    "reserved-selected"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=83346&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "83346",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=83346&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "83346",
+                "soldOut": false,
+                "auditorium": "8",
+                "auditoriumTinyName": "8"
+            },
+            {
+                "id": "83823",
+                "filmId": "ho00010344",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T19:30:00",
+                "attributeIds": [
+                    "12a",
+                    "2d",
+                    "reserved-selected",
+                    "superscreen"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=83823&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "83823",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=83823&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "83823",
+                "soldOut": false,
+                "auditorium": "9",
+                "auditoriumTinyName": "9"
+            },
+            {
+                "id": "84305",
+                "filmId": "ho00010207",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T19:40:00",
+                "attributeIds": [
+                    "2d",
+                    "animation",
+                    "reserved-selected",
+                    "u"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84305&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "84305",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84305&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "84305",
+                "soldOut": false,
+                "auditorium": "5",
+                "auditoriumTinyName": "5"
+            },
+            {
+                "id": "84422",
+                "filmId": "ho00010450",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T20:20:00",
+                "attributeIds": [
+                    "15",
+                    "2d",
+                    "drama",
+                    "reserved-selected",
+                    "subbed"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84422&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "84422",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84422&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "84422",
+                "soldOut": false,
+                "auditorium": "6",
+                "auditoriumTinyName": "6"
+            },
+            {
+                "id": "84401",
+                "filmId": "ho00010305",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T20:40:00",
+                "attributeIds": [
+                    "15",
+                    "2d",
+                    "horror",
+                    "reserved-selected",
+                    "suspense"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84401&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "84401",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84401&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "84401",
+                "soldOut": false,
+                "auditorium": "3",
+                "auditoriumTinyName": "3"
+            },
+            {
+                "id": "84233",
+                "filmId": "ho00010228",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T20:50:00",
+                "attributeIds": [
+                    "18",
+                    "2d",
+                    "horror",
+                    "reserved-selected",
+                    "suspense"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84233&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "84233",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84233&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "84233",
+                "soldOut": false,
+                "auditorium": "1",
+                "auditoriumTinyName": "1"
+            },
+            {
+                "id": "84336",
+                "filmId": "ho00010351",
+                "cinemaId": "103",
+                "businessDay": "2023-10-21",
+                "eventDateTime": "2023-10-21T21:00:00",
+                "attributeIds": [
+                    "15",
+                    "2d",
+                    "horror",
+                    "reserved-selected"
+                ],
+                "bookingLink": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84336&lang=en-GB",
+                "compositeBookingLink": {
+                    "type": "REGAL",
+                    "bookingUrl": {
+                        "url": "https://experience.cineworld.co.uk/select-tickets",
+                        "params": {
+                            "sitecode": "103",
+                            "site": "098",
+                            "id": "84336",
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://experience.cineworld.co.uk/select-tickets?sitecode=103&site=098&id=84336&lang=en-GB",
+                    "blockOnlineSales": null,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cineworld.co.uk/booking"
+                },
+                "presentationCode": "84336",
+                "soldOut": false,
+                "auditorium": "7",
+                "auditoriumTinyName": "7"
+            }
+        ]
+    }
+}
